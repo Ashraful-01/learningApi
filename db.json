@@ -1,0 +1,11 @@
+{
+    "dishes": [
+        {
+            "id": 0,
+            "name": "burger",
+            "price": "199"
+        }
+    ],
+    "comments": [],
+    "feedback": []
+}
