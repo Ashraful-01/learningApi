@@ -4,8 +4,30 @@
             "id": 0,
             "name": "burger",
             "price": "199"
+        },
+        {
+            "id": 1,
+            "name": "Chicken Burger",
+            "price": "300"
         }
     ],
-    "comments": [],
-    "feedback": []
+    "comments": [
+        {
+            "id": 0,
+            "name": "Ashraful Alam",
+            "rating": "4",
+            "comment": "This is a good dish!"
+        },
+        {
+            "id": 1,
+            "name": "Ashraful",
+            "rating": "4",
+            "comment": "This is delicious dish"
+        }
+    ],
+    "feedback": [
+        {
+            "FeedBack": "Average"
+        }
+    ]
 }
